@@ -55,8 +55,12 @@ At first glance, we see that the trending line is slightly diagonal indicating a
 <img src="https://github.com/jameszil/pictures/blob/main/R/Inequality%20vs%20Violence%202022.png?raw=true" height="70%" width="70%" alt="Steps"/>
 <br />
 <br />
-This looks much nicer as we can easily see the different development groups. Interestingly enough, we are able to see that countries with Very High Development and countries with Low Development do not typically have high levels of violence or inequality. The countries with High Development and and Medium Development are most likely to have both higher levels of violence and higher levels of inequality. To be fair, this data is very scattered and there are many outliers, it would be naive to draw any major conclusions from this view. I'd like to point out here that correlation does not mean causation, however, causations are typically correlated. Given we cannot see a direct line just by looking at the dots alone, I think one insight that I can draw from this plot is that while inequality may be a factor, there may be other factors other than inequality that have a higher correlation and potentially a higher impact on driving high homicide rates and vice versa. Plots like these shift how I see things, realizing issues can be more complex than we sometimes try to make them out to be. This definitely sparked curiosity to seek further understanding. In the meantime, let's plot our next dataset!
+This looks much nicer as we can easily see the different development groups. Interestingly enough, we are able to see that countries with Very High Development and countries with Low Development do not typically have high levels of violence or inequality. The countries with High Development and and Medium Development are most likely to have both higher levels of violence and higher levels of inequality. To be fair, this data is very scattered and there are many outliers, it would be naive to draw any major conclusions from this view. I'd like to point out here that correlation does not mean causation, however, causations are typically correlated. Given we cannot see a direct line just by looking at the dots alone, I think one insight that I can draw from this plot is that while inequality may be a factor, there may be other factors other than inequality that have a higher correlation and potentially a higher impact on driving high homicide rates and vice versa. Plots like these shift how I see things, realizing issues can be more complex than we sometimes try to make them out to be.
+  
+[This definitely sparked curiosity to seek further understanding.](https://github.com/jameszil/Tableau/blob/main/developmental_comparisons_qc/README.md#gun-ownership) 
+In the meantime, let's plot our next dataset!
 
+  
 #### Median vs Mean Wealth
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/R/Devcomp%20Median%20vs%20Mean%20Wealth%20code.png?raw=true" height="70%" width="70%" alt="Steps"/>
@@ -100,6 +104,8 @@ This trend shows that bigger economies do have higher levels of development. Som
 <br />
 <br />
 Here we are also able to see the world is not split by development according to regions. There are countries of every level of development in virtually every region of the world. This chart where all countries are closely joined together resembles a skittles bag. That is the world. We are a giant bag of skittles, and each bag of skittles are not separated by their individual flavors. That is to say, when we look at the first chart we see a very stark world, one where there are divisive grid lines that detach countries and regions from one another, but this graph disproves that theory. When we look at this graph we see a different picture, one that shows we may live a lot more like another person on the other side of the world than we may realize.
+
+[See how I replicated these plots in Tableau to QC](https://github.com/jameszil/Tableau/blob/main/developmental_comparisons_qc/README.md)
 
 
 
