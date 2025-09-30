@@ -12,7 +12,7 @@ In the Google Data Analytics Professional Certificate, I was introduced to R. Af
 ### Objective:
 Create a scatterplot using R and conduct linear regression analysis seeking to find correlations utilizing ggplot2. In this project I'll be comparing the relationship between health and wealth by region and development group.
 
-### Packages used:
+### Packages/Libraries used:
 ggplot2, readr, dplyr using RStudio
 
 
