@@ -57,7 +57,7 @@ So there you have it, despite all the economic challenges people face in each of
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/R/YoY%20daily%20income%20Venezuela.png?raw=true" height="70%" width="70%" alt="Query Steps"/>
 <br />
-Let me be clear, I was drawing my conclusions based on the data I had pulled to make a point. The conclusions I made previously about all people making more money than they used to is not the case with every country. Although it is less common, some people have had a significant decline in daily income as well, for example Venezuela. Even outliers with declining daily income like Venezuela however, still saw a massive rise in income at one point in their history before an eventual economic collapse. Let's hope that as history continues, over time the general trend of the majority of countries prevails for all those that may be facing challenges today.
+Let me be clear, I was drawing conclusions based on the data I had pulled to make a point. The conclusions I made previously about all people making more money than they used to is not the case with every country. Although it is less common, some countries have had a significant decline in daily income per person as well, for example Venezuela. Even outliers with declining daily income like Venezuela however, still saw a massive rise in income at one point in their history before an eventual economic collapse. Let's hope that as history continues, the general trend of the majority of countries over time prevails for all those that may be facing challenges today.
 <br />
 <br />
 
