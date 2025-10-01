@@ -42,3 +42,4 @@ I broke this out by each region using facet_wrap when experimenting with how I w
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/R/healthvswealth%20facet%20dots.png?raw=true" height="80%" width="80%" alt="Query Steps"/>
 
+See my [Developmental Comparisons R Script](https://github.com/jameszil/R/tree/main/developmental_comparisons) where I take a look at more datasets to find correlations.
