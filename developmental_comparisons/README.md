@@ -49,7 +49,7 @@ Adjusting some of my original code, I created a scatterplot of inequality by usi
 <img src="https://github.com/jameszil/pictures/blob/main/R/homicide%20vs%20gini.png?raw=true" height="70%" width="70%" alt="Steps"/>
 <br />
 <br />
-At first glance, we see that the trending line is slightly diagonal indicating a slight trend, however this would probably not be enough to make the conclusion that these two factors are entirely correlated. We see many countries across all regions with very low homicide rates recgardless of inequality level, and most of the countries with largest homicide rate fall near the middle of the gini coefficient between 35-50. As the coloring of Subregion looked a little too busy, I then created a second plot grouping countries by Development Group.
+At first glance, we see that the trending line is slightly diagonal indicating a slight trend, however this would probably not be enough to make the conclusion that these two factors are entirely correlated. We see many countries across all regions with very low homicide rates regardless of inequality level, and most of the countries with largest homicide rate fall near the middle of the gini coefficient between 35-50. As the coloring of Subregion looked a little too busy, I then created a second plot grouping countries by Development Group.
 <br />
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/R/Inequality%20vs%20Violence%202022.png?raw=true" height="70%" width="70%" alt="Steps"/>
